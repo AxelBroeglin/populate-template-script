@@ -10,7 +10,7 @@
 
 
 ## General Information
-- This onChange client script uses the information populated by the user to identify the caller and populates the applied template with the relevant information.
+- This onChange client script uses the information populated by the user to identify the caller and populates the applied template with the relevant information. Check the product documentation for more information.
 
 ## Technologies Used
 - ServiceNow
